@@ -1,10 +1,6 @@
 <div align="center">
-  <img src="./assets/stars-banner.svg" width="100%" alt="Petrosalex Space Banner" />
+  <img src="./assets/stars-banner.svg" width="100%" alt="PETROSALEX. To engineering... and beyond! A black hole drifts across the Milky Way in a starry sky." />
 </div>
-
-<p align="center">
-  <img src="https://svs.gsfc.nasa.gov/vis/a010000/a014100/a014132/BHW_Supermassive_Black_Hole_Simulation.gif" width="500" alt="Black Hole Simulation" />
-</p>
 
 <!--
 **petrosalex/petrosalex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
