@@ -209,6 +209,6 @@
 
   <!-- Текст и Слоган -->
   <text x="50%" y="130" text-anchor="middle" class="title">PETROSALEX</text>
-  <text x="50%" y="186" text-anchor="middle" class="subtitle">&gt; To engineering... and beyond! <tspan class="cursor">_</tspan></text>
+  <text x="50%" y="186" text-anchor="middle" class="subtitle">&gt; Welcome to engineering... and beyond! <tspan class="cursor">_</tspan></text>
   <text x="50%" y="982" text-anchor="middle" class="credit">Illustration: NASA GSFC · Background: ESA/Gaia/DPAC</text>
 </svg>

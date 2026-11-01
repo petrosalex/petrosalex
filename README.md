@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/stars-banner.svg" width="100%" alt="PETROSALEX. To engineering... and beyond! A black hole drifts across the Milky Way in a starry sky." />
+  <img src="./assets/stars-banner.svg" width="100%" alt="PETROSALEX. Welcome to engineering... and beyond! A black hole drifts across the Milky Way in a starry sky." />
 </div>
 
 <!--
